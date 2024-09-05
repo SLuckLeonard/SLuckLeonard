@@ -48,7 +48,7 @@ Currently based in Austin, TX, I'm looking for opportunities to contribute to cu
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/sam-luck-leonard)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-luck-leonard)
 
 ---
 
