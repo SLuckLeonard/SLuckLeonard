@@ -35,6 +35,11 @@ Currently based in Austin, TX, I'm looking for opportunities to contribute to cu
   A set of SQL query files meant to work with MySQL. Features full database creation with synthetic data population and example CRUD operations.
   **Tech Stack**: SQL
 
+- **[Sentiment Analysis Tool](https://github.com/SLuckLeonard/Movie_Reviews_Sentiment_Analysis)**
+  A web-based sentiment analysis tool that classifies text into positive or negative sentiment using Naive Bayes. Includes a user-friendly interface for text input and real-time
+  sentiment predictions.
+  **Tech Stack:** Python, Flask, Scikit-learn, NLTK, Pandas
+
 ---
 
 ## 🎯 What I'm Interested In
