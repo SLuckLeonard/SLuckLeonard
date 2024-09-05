@@ -1,4 +1,4 @@
-# Hi there, I'm Sam!
+# Welcome to my Github, I'm Sam Luck-Leonard
 
 I'm a recent graduate from **Furman University** with a degree in **Computer Science** and **History** and experience in **AI/ML**, **data engineering**, and **full-stack development**. I love creating innovative solutions wherever my experience is helpful, and have a passion for sharing knowledge through teaching and technical documentation.
 
