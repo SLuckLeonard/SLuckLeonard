@@ -21,7 +21,7 @@ Currently based in Austin, TX, I'm looking for opportunities to contribute to cu
 ## 📂 Key Projects
 - **Routes Technologies Project**  
   A full-stack app in progress for Routes Technologies. Work predominatly done within Microsoft Azure. Member of the team since August 2023. 
-  **Tech Stack**: React Native, Node.js, Azure, REST APIs, Python, JavaScript, Azure ML Studio
+  **Tech Stack**: React Native, Node.js, Azure, REST APIs, Python, JavaScript, Azure ML Studio, SQL, PHP
   
 - **[Music Recommendation System](https://github.com/SLuckLeonard/Music_Recommendation_System)**  
   A recommendation system built with collaborative filtering techniques using a custom dataset. Features data normalization, error handling, and suggestions based on user history.  
