@@ -25,7 +25,7 @@ Currently based in Austin, TX, I'm looking for opportunities to contribute to cu
 
 - **[Fantasy Football Decider](https://github.com/SLuckLeonard/FantasyFootballDecider)**
   A comparing tool written in Python that pulls live updated stats for NFL players through and predicts the player that would be better suited to start for fantasy football that week. 
-  Small front end work accomplished for simple user experience. 
+  Small front-end work accomplished for simple user experience. 
   **Tech Stack**: Python, Flask, HTML, JavaScript
   
 - **[Music Recommendation System](https://github.com/SLuckLeonard/Music_Recommendation_System)**  
