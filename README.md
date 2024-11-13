@@ -22,6 +22,11 @@ Currently based in Austin, TX, I'm looking for opportunities to contribute to cu
 - **Routes Technologies Project**  
   A full-stack app in progress for Routes Technologies. Work predominatly done within Microsoft Azure. Member of the team since August 2023. 
   **Tech Stack**: React Native, Node.js, Azure, REST APIs, Python, JavaScript, Azure ML Studio, SQL, PHP
+
+- **[Fantasy Football Decider](https://github.com/SLuckLeonard/FantasyFootballDecider)**
+  A comparing tool written in Python that pulls live updated stats for NFL players through and predicts the player that would be better suited to start for fantasy football that week. 
+  Small front end work accomplished for simple user experience. 
+  **Tech Stack**: Python, Flask, HTML, JavaScript
   
 - **[Music Recommendation System](https://github.com/SLuckLeonard/Music_Recommendation_System)**  
   A recommendation system built with collaborative filtering techniques using a custom dataset. Features data normalization, error handling, and suggestions based on user history.  
