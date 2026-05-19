@@ -1,65 +1,59 @@
-# Welcome to my Github, I'm Sam Luck-Leonard
+# Hi, I'm Sam Luck-Leonard
 
-I'm a recent graduate from **Furman University** with a degree in **Computer Science** and **History** and experience in **AI/ML**, **data engineering**, and **full-stack development**. I love creating innovative solutions wherever my experience is helpful, and have a passion for sharing knowledge through teaching and technical documentation.
+I'm a software engineer and Director of AI & Talent at **Routes Technologies**, where I help build and ship **[Chomps](https://chompsapp.com)** — a food social network and recipe platform for discovering, planning, and sharing meals. I work across backend systems, AI/ML pipelines, and team building at an early-stage startup, which means I get to wear a lot of hats and move fast.
 
-Currently based in Austin, TX, I'm looking for opportunities to contribute to cutting-edge software development projects and further develop my skills in **data science** and **software engineering**.
+I graduated from **Furman University** with degrees in **Computer Science** and **History**, and I'm based in **Austin, TX**.
 
 ---
 
 ## 🔧 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ---
 
-## 📂 Key Projects
-- **Routes Technologies Project**  
-  A full-stack app in progress for Routes Technologies. Work predominatly done within Microsoft Azure. Member of the team since August 2023. 
-  **Tech Stack**: React Native, Node.js, Azure, REST APIs, Python, JavaScript, Azure ML Studio, SQL, PHP
+## 📂 Projects
 
-- **[Fantasy Football Decider](https://github.com/SLuckLeonard/FantasyFootballDecider)**
-  A comparing tool written in Python that pulls live updated stats for NFL players through and predicts the player that would be better suited to start for fantasy football that week. 
-  Small front-end work accomplished for simple user experience. 
-  **Tech Stack**: Python, Flask, HTML, JavaScript
-  
-- **[Music Recommendation System](https://github.com/SLuckLeonard/Music_Recommendation_System)**  
-  A recommendation system built with collaborative filtering techniques using a custom dataset. Features data normalization, error handling, and suggestions based on user history.  
-  **Tech Stack**: Python, Flask, Scikit-Learn, Pandas
+### [Chomps](https://chompsapp.com) — Routes Technologies
+A food social network and all-in-one recipe platform. Users discover recipes, follow friends, build meal plans, scan barcodes to log ingredients, create shopping lists, and order groceries — all in one place. Available on iOS, Android, and web.
 
-- **[NLP Chatbot](https://github.com/SLuckLeonard/NLP_Chatbot)**  
-  An NLP-based chatbot built using SpaCy and Flask. Designed for customer support with robust intent recognition and linguistic annotations.  
-  **Tech Stack**: Python, Flask, NLP, SpaCy
+My contributions span the full lifecycle of the product:
+- **Backend systems** — social features (follows, feeds, interactions), shopping and ingredient ordering pipelines, and personalized recommendation systems
+- **AI/ML** — led the AI team on web and TikTok recipe import features, LLM integrations for recipe parsing and generation, and content understanding pipelines
+- **Infrastructure** — Azure configuration, monitoring, and data pipelines
+- **Team** — engineering onboarding and technical recruiting
 
-- **[Mock Library Book System in SQL](https://github.com/SLuckLeonard/BookSharingSQL)**
-  A set of SQL query files meant to work with MySQL. Features full database creation with synthetic data population and example CRUD operations.
-  **Tech Stack**: SQL
-
-- **[Sentiment Analysis Tool](https://github.com/SLuckLeonard/Movie_Reviews_Sentiment_Analysis)**
-  A web-based sentiment analysis tool that classifies text into positive or negative sentiment using Naive Bayes. Includes a user-friendly interface for text input and real-time
-  sentiment predictions.
-  **Tech Stack:** Python, Flask, Scikit-learn, NLTK, Pandas
+**Tech Stack:** React Native, Node.js, Python, Azure, REST APIs, SQL, Azure ML Studio, PHP
 
 ---
 
-## 🎯 What I'm Interested In
+### [NFL Pick'em 2026](https://sluckleonard.github.io/nfl-pickems-2026) — Personal Project
+A full-stack NFL prediction tracker for two players competing across the entire 2026 season. Built from scratch with a real-time Firebase backend, 272-game schedule, and a custom stats engine with 36 unit tests.
 
-- **Artificial Intelligence & Machine Learning**: Always looking to expand my knowledge in building AI-driven systems and exploring new algorithms.
-- **Data Engineering**: Passionate about building scalable data pipelines and working with large datasets for insightful analysis.
-- **Full-Stack Development**: Combining front-end and back-end skills to create cohesive user experiences.
-- **NLP Research**: Investigating word trends and document generation. Completed research on this in the context of historiographical trends for capstone at Furman. 
+Features include dual pick tracking (pre-season and weekly), live division standings that update as picks are made, a playoff bracket builder, O/U win total tracking, head-to-head stats, and six Recharts visualizations. Both players sync in real time across devices.
+
+**Tech Stack:** React, Vite, Firebase Firestore, Firebase Auth, Recharts, Vitest, GitHub Pages
 
 ---
 
-## 📫 Connect with Me
+## 🎯 What I Work On
+
+- **AI & LLM Systems** — building practical AI features into production products, from content import pipelines to recommendation engines
+- **Backend Engineering** — designing and maintaining the systems that power social and commerce features at scale
+- **Full-Stack Development** — comfortable moving between frontend, backend, and infrastructure depending on what the product needs
+- **Team Building** — recruiting and onboarding engineers at an early-stage startup
+
+---
+
+## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-luck-leonard)
-
----
-
-
