@@ -18,6 +18,7 @@ I graduated from **Furman University** with degrees in **Computer Science** and 
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ---
 
@@ -27,7 +28,7 @@ I graduated from **Furman University** with degrees in **Computer Science** and 
 A food social network and all-in-one recipe platform. Users discover recipes, follow friends, build meal plans, scan barcodes to log ingredients, create shopping lists, and order groceries — all in one place. Available on iOS, Android, and web.
 
 My contributions span the full lifecycle of the product:
-- **Backend systems** — social features (follows, feeds, interactions), shopping and ingredient ordering pipelines, and personalized recommendation systems
+- **Backend systems** — social features (follows, feeds, interactions), shopping and ingredient ordering pipelines, and personalized recommendation systems; core API development and backend logic in PHP
 - **AI/ML** — led the AI team on web and TikTok recipe import features, LLM integrations for recipe parsing and generation, and content understanding pipelines
 - **Infrastructure** — Azure configuration, monitoring, and data pipelines
 - **Team** — engineering onboarding and technical recruiting
