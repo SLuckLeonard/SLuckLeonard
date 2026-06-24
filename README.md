@@ -1,5 +1,4 @@
 # Hi, I'm Sam Luck-Leonard
-
 I'm a software engineer and Director of AI & Talent at **Routes Technologies**, where I help build and ship **[Chomps](https://chompsapp.com)** — a food social network and recipe platform for discovering, planning, and sharing meals. I work across backend systems, AI/ML pipelines, and team building at an early-stage startup, which means I get to wear a lot of hats and move fast.
 
 I graduated from **Furman University** with degrees in **Computer Science** and **History**, and I'm based in **Austin, TX**.
@@ -16,7 +15,9 @@ I graduated from **Furman University** with degrees in **Computer Science** and 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/-Azure%20SQL-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/-OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
@@ -46,6 +47,18 @@ Features include dual pick tracking (pre-season and weekly), live division stand
 
 ---
 
+### [NFL Stats PostgreSQL Pipeline](https://github.com/SLuckLeonard/-nfl-postgres-pipeline) — Personal Project
+A Python ETL pipeline that ingests live NFL game data from a public REST API into a self-hosted PostgreSQL database, with analytical SQL queries and database admin workflows.
+
+- **Schema design** — normalized relational schema across teams, games, and predictions tables with foreign key constraints and a computed total points column
+- **ETL pipeline** — Python ingest script using psycopg2 and requests with upsert logic to avoid duplicate records
+- **Query optimization** — indexes on season, week, and team ID columns; verified with EXPLAIN ANALYZE (0.014ms execution time on indexed queries)
+- **Admin workflows** — pg_dump backups, ALTER TABLE schema migrations, pg_stat_activity monitoring, and full restore testing
+
+**Tech Stack:** Python, PostgreSQL, psycopg2, SQL, REST APIs
+
+---
+
 ## 🎯 What I Work On
 
 - **AI & LLM Systems** — building practical AI features into production products, from content import pipelines to recommendation engines
@@ -56,5 +69,4 @@ Features include dual pick tracking (pre-season and weekly), live division stand
 ---
 
 ## 📫 Connect
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-luck-leonard)
