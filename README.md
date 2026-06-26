@@ -59,6 +59,18 @@ A Python ETL pipeline that ingests live NFL game data from a public REST API int
 
 ---
 
+### [NFL OpenSearch Search & Analytics Layer](https://github.com/SLuckLeonard/nfl-opensearch-layer) — Personal Project
+A search and analytics layer built on top of the PostgreSQL NFL pipeline, using OpenSearch to enable full-text search across game summaries and aggregation-based analytics. Together the two projects form a mini data platform — PostgreSQL as the transactional source of truth, OpenSearch as the read-optimized search and analytics store.
+
+- **Index mapping** — explicit field mappings distinguishing `keyword` types for exact filtering (team names, status) from `text` types with a custom analyzer for full-text search across game summaries
+- **Bulk ingestion** — Python script that reads from PostgreSQL and pushes documents into OpenSearch using the bulk helpers API
+- **Search & aggregations** — full-text search, boolean filters, per-team scoring averages, and range queries for high-scoring games
+- **Index management** — delete/recreate reindex workflows, cluster health checks, and mapping inspection via the REST API
+
+**Tech Stack:** Python, OpenSearch, opensearch-py, PostgreSQL, Docker
+
+---
+
 ## 🎯 What I Work On
 
 - **AI & LLM Systems** — building practical AI features into production products, from content import pipelines to recommendation engines
